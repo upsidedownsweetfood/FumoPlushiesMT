@@ -1,6 +1,7 @@
 | fumo | status |
 |---------|-----------|
 | Cirno | done    |
-| marisa | done |
-| Alice | done |
+| marisa | redoing |
+| Alice | redoing |
 | reimu | done |
+| *please suggest more fumos to add* | -- |
