@@ -1,8 +1,8 @@
 FUMOS = {
-    "cirno", "reimu"
+    "cirno", "reimu", "cirnowhatsapp", "mikuhatsune"
 }
 
-SPECIALITEMS = {"default:snow", "default:gold_ingot"}
+SPECIALITEMS = {"default:snow", "default:gold_ingot", "wool:green", "wool:blue"}
 
 minetest.register_craftitem("fumoplushies:plushie", {
 	description = "A base for a fumo",
