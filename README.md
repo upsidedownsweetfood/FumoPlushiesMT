@@ -7,4 +7,5 @@
 | Reisen | To-Do |
 | marisa | redoing |
 | Alice | redoing |
+| Saber | Done |
 | *please suggest more fumos to add* | -- |

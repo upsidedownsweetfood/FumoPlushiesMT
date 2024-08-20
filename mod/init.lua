@@ -1,5 +1,5 @@
 FUMOS = {
-    "cirno", "reimu", "cirnowhatsapp", "mikuhatsune"
+    "cirno", "reimu", "cirnowhatsapp", "mikuhatsune", "saber"
 }
 
 SPECIALITEMS = {"default:snow", "default:gold_ingot", "wool:green", "wool:blue"}
